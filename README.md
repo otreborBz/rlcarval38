@@ -1,7 +1,7 @@
 <p>Olá! Seja Bem Vindo ao meu GitHub.</p>
 <p>👦 Eu sou <strong>Roberto de Carvalho</strong>.</p>
 <p>👨‍🔧 Formado em Técnico de Fabricação Mêcanica, Eletricista de Manutenção.</p>
-<p>👨‍🎓 Estudante Casual de Programação Front-End.</p>
+<p>👨‍🎓 Estudante de Programação Front-End. BORA PRA CIMA!</p>
 
 <div>
   <a href="https://github.com/rlcarval38">
